@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елена Арутюнян](https://up.htmlacademy.ru/javascript/19/user/106442).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
